@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sklep</string>
+    <string name="scaner_info">Podgłośnij aby włączyć latarkę</string>
+    <string name="back_to_home_btn">Powrót do domu</string>
+    <string name="accept_btn">Akceptuj</string>
+    <string name="contains_alcohol_switch">Ograniczona Sprzedaż</string>
+    <string name="product_add_name">Nazwa produktu</string>
+    <string name="product_price">Cena produktu</string>
+    <string name="product_add_head">Produkt</string>
+</resources>

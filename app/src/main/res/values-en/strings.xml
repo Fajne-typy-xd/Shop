@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="back_to_home_btn">Back to Home</string>
+    <string name="accept_btn">Accept</string>
+    <string name="contains_alcohol_switch">Limited Sale</string>
+    <string name="product_add_name">Product name</string>
+    <string name="scaner_info">Volume up to flash on</string>
+</resources>
